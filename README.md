@@ -18,7 +18,7 @@ This is a **NestJS** application that integrates with the **Moyassar** API, a pa
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/moyassar-nestjs.git
+git clone https://github.com/iahmedelbayaa/moyassar-nestjs.git
 cd moyassar-nestjs
 ```
 
